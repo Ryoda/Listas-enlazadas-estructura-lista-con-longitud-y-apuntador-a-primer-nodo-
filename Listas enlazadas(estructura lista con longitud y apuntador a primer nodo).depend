@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1426182526 source:c:\users\javier\documents\practica algoritmos\listas enlazadas(estructura lista con longitud y apuntador a primer nodo)\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1426182485 c:\users\javier\documents\practica algoritmos\listas enlazadas(estructura lista con longitud y apuntador a primer nodo)\listas.h
+
+1426182580 source:c:\users\javier\documents\practica algoritmos\listas enlazadas(estructura lista con longitud y apuntador a primer nodo)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
